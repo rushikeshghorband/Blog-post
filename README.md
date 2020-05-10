@@ -1,1 +1,2 @@
 # Blog-post
+Speaking of in-depth resources, Data Science Report curates resources from all variety of formats to get data science into your brain. The site collects free courses, articles, books, videos, and TED Talks to help any level of data scientist. You can filter the topics to find select information regarding how to get started, salary negotiation, interviews, technology, social media, marketing, and topics that are just “simply interesting.” It’s a resource hub for data scientists at any point in their career and anyone with a mind to learn about data.
